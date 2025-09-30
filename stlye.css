@@ -1,0 +1,126 @@
+body{
+  background-color: aliceblue;
+  font-family: bree serif;
+}
+.Tabela{
+  
+  background-color: #861720;
+  color: aliceblue;
+  display:flex;/*Coloca tudo na mesma linha*/
+  align-items: center;/*Alinha verticalmente*/
+  gap: 80px;/*Espaço entre os nomes e os links*/
+  padding: 40px;/*Espaço interno dos elementos*/
+  font-size:20px;
+  border-radius: 40px;
+  
+
+}
+#nome{
+ font-size: 35px;
+ color: aliceblue;
+ display: inline-block;
+}
+.topicos{
+  font-size: 20px;
+  color: aliceblue;
+  margin-right: 10px;
+}
+#eu{
+margin-top: 10px;
+border-radius: 30px;
+
+}
+.imagem-eu{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 360px;
+  height: 360px;
+  background-color: #861720;
+
+}
+.sobre-mim{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 500px;
+  height: 20px;
+  background-color:#f97890;
+ 
+ 
+}
+.section-eu{
+  display: flex;
+
+}
+.pragrafo-mim{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 500px;
+  height: 200px;
+  background-color:#f797a9;
+  font-size: 25px;
+}
+
+.Habilidades{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 400px;
+  height: 12px;
+  background-color:#f97890;
+ 
+ 
+}
+.Habilidades-eu{
+  display: flex;
+
+}
+.pragrafo-Habilidades{
+  border-radius: 30px;
+  margin: 50px;
+  padding:43px;
+  width: 500px;
+  height: 300px;
+  background-color:#861720;
+  font-size: 20px;
+}
+
+
+
+.meus-projetos{
+  border-radius: 40px;
+  margin:50px;
+  padding: 40px;
+  width: 1200px;
+  height:30px;
+  background-color: #f97890;
+ text-align: center;
+ padding-top: 10px;
+}
+
+.oboticario{
+  border-radius: 40px;
+  margin:20px;
+  padding: 40px;
+  width: 450px;
+  height:300px;
+  background-color: #f97890;
+ text-align: center;
+ display: inline-block;
+}
+
+.Sirius{
+  border-radius: 40px;
+  margin:20px;
+  padding: 40px;
+  width: 450px;
+  height:300px;
+  background-color: #f97890;
+ text-align: center;
+ display: inline-block;
+ margin-left: 200px;
+}
+
+
